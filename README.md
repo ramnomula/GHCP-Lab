@@ -1,4 +1,4 @@
-# Github Copilot Lab
+![Github Copilot Lab](https://ghrb.waren.build/banner?header=Github+Copilot+Lab%F0%9F%9A%80&bg=ec4899-3b82f6&color=ffffff)
 
 Welcome to the Github Copilot (GHCP) lab.
 
